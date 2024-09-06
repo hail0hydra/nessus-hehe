@@ -139,9 +139,42 @@ In fact, there is another EASY way to solved the encryption, try and find it!ðŸ˜
 # Thanks note
 Some English text translated by [Aholicknight](https://github.com/Aholicknight)
 
+<br>
+
 thanks a lot! 
 
 # donate
 If you like this project, you can be a sponsor!  
 
 [Pay Me via PayPal](https://www.paypal.com/paypalme/pay2rami)
+
+
+
+<br>
+<br>
+<br>
+
+
+
+---
+
+<br>
+<br>
+<br>
+
+
+# How I did it (SEP 2024)
+
+<br>
+
+- pull it
+
+- create account [here](https://www.tenable.com/products/nessus/nessus-essentials) to recieve activation code
+
+- Go [here](https://plugins.nessus.org/v2/offline.php), use the same strings and activation code recieved on mail
+
+-  Run the `update.sh` with the link recieved.
+
+-  make sure nessus dashboard is open while all this
+
+-  done (maybe)
