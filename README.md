@@ -171,7 +171,7 @@ If you like this project, you can be a sponsor!
 
 - create account [here](https://www.tenable.com/products/nessus/nessus-essentials) to recieve activation code
 
-- Go [here](https://plugins.nessus.org/v2/offline.php), use the same strings(re-use) and activation code recieved on mail
+- Go [here](https://plugins.nessus.org/offline.php), use the same strings(re-use) and activation code recieved on mail
 
 -  Run the `update.sh` with the link recieved.
 
