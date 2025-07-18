@@ -163,7 +163,7 @@ If you like this project, you can be a sponsor!
 <br>
 
 
-# How I did it (SEP 2024)
+# How I did it (Jul 2025)
 
 <br>
 
@@ -173,7 +173,13 @@ If you like this project, you can be a sponsor!
 
 - Go [here](https://plugins.nessus.org/offline.php), use the same strings(re-use) and activation code recieved on mail
 
+- Change password
+
+    `docker exec -it "IMAGE_ID" /bin/bash`
+
 -  Run the `update.sh` with the link recieved.
+  
+     `docker exec -it ramisec_nessus /nessus/update.sh "UPDATE_URL_YOU_GOT"`
 
 -  make sure nessus dashboard is open while all this
 
